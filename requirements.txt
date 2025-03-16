@@ -3,7 +3,9 @@ python-dotenv
 python-telegram-bot[webhooks,rate-limiter,job-queue]==21.0.1
 
 pytz
+pillow
 msgspec
+fastapi
 PyExecJS
 requests
 html2text
